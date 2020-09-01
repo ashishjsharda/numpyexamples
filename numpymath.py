@@ -1,0 +1,11 @@
+import numpy as np
+a=np.array([10,20,30])
+b=np.array([40,50,60])
+mul=np.multiply(a, b)
+print(mul)
+div=np.divide(b, a)
+print(div)
+add = np.add(a, b)
+print(add)
+sub=np.subtract(b, a)
+print(sub)
